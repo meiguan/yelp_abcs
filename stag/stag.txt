@@ -1,2 +1,0 @@
-Stag - folder for code that moves the downloaded raw data files into warehouse
-Start script with stag_ and correspond to schema in warehouse
