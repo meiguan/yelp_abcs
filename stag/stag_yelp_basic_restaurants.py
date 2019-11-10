@@ -16,7 +16,7 @@ from sqlalchemy import create_engine
 sys.path.append('../')
 from envir import config
 
-local = 'New York, Manhattan, Greenwich Village'
+local = 'New York, Manhattan, Upper West Side'
 
 if os.path.exists(config.shared+'yelp_categories.json') == False: 
     # download json of categories
