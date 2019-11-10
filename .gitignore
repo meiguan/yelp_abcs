@@ -106,3 +106,5 @@ venv.bak/
 # envir
 /envir/*.py
 /envir/
+
+*.out
